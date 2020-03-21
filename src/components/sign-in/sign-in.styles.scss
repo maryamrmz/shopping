@@ -1,14 +1,13 @@
-.collection-preview {
+.sign-in {
+  width: 380px;
   display: flex;
   flex-direction: column;
-  margin-bottom: 30px;
 
   .title {
-    font-size: 28px;
-    margin-bottom: 25px;
+    margin: 10px 0;
   }
 
-  .preview {
+  .buttons {
     display: flex;
     justify-content: space-between;
   }
