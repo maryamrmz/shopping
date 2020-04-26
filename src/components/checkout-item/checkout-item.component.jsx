@@ -1,11 +1,11 @@
-import React from "react";
-import { connect } from "react-redux";
+import React from 'react';
+import { connect } from 'react-redux';
 
 import {
     clearItemFromCart,
     addItem,
     removeItem
-} from "../../redux/cart/cart.action";
+} from '../../redux/cart/cart.actions';
 
 import {
     CheckoutItemContainer,
@@ -13,7 +13,7 @@ import {
     TextContainer,
     QuantityContainer,
     RemoveButtonContainer
-} from "./checkout-item.styles";
+} from './checkout-item.styles';
 
 const CheckoutItem = ({ cartItem, clearItem, addItem, removeItem }) => {
     const { name, imageUrl, price, quantity } = cartItem;
@@ -31,7 +31,7 @@ const CheckoutItem = ({ cartItem, clearItem, addItem, removeItem }) => {
             <TextContainer>{price}</TextContainer>
             <RemoveButtonContainer onClick={() => clearItem(cartItem)}>
                 &#10005;
-            </RemoveButtonContainer>
+      </RemoveButtonContainer>
         </CheckoutItemContainer>
     );
 };
@@ -42,4 +42,7 @@ const mapDispatchToProps = dispatch => ({
     removeItem: item => dispatch(removeItem(item))
 });
 
-export default connect(null, mapDispatchToProps)(CheckoutItem);
+export default connect(
+    null,
+    mapDispatchToProps
+)(CheckoutItem);
