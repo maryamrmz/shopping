@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## How run project?
 
-clone in your local using below bash:
+clone it in your local system using the below bash:
 
 ```bash
 git clone https://github.com/maryamrmz/Shopping.git
