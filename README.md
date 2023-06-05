@@ -17,9 +17,10 @@ The shopping application offers the following features:
 9. User Reviews and Ratings: Users can provide feedback and ratings for products they have purchased.
 10. User Profile: Users can manage their profile information, including contact details and preferences.
     Installation
-    To run the shopping application locally, follow these steps:
 
-11. Clone the repository:
+To run the shopping application locally, follow these steps:
+
+1. Clone the repository:
 
 ```bash
 git clone https://github.com/maryamrmz/Shopping.git
@@ -53,7 +54,7 @@ The shopping application has the following dependencies:
 - Redux
 - Firebase
 - graphql
-- Payment gateway SDK (Stripe)
+- Payment gateway SDK (Stripe)\
   For a complete list of dependencies, please refer to the `package.json` file.
 
 ## Contributing
@@ -64,7 +65,7 @@ If you would like to contribute to this project, please follow these guidelines:
 2. Create a new branch for your feature or bug fix.
 3. Make your changes and test them thoroughly.
 4. Commit your changes and push them to your fork.
-5. Submit a pull request, explaining the purpose and details of your changes.
+5. Submit a pull request, explaining the purpose and details of your changes.\
    Please ensure that your code adheres to the existing coding style and conventions used in the project.
 
 ## License
