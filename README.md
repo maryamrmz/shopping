@@ -77,4 +77,4 @@ This repository is licensed under the MIT License.
 
 For any inquiries or support requests related to the shopping application, please contact me at maryam.rpour@gmail.com.
 
-Please feel free to explore the code, suggest improvements, and provide feedback. Thank you for your interest in this project
+Please feel free to explore the code, suggest improvements, and provide feedback. Thank you for your interest in this project.
