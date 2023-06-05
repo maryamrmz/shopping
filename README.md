@@ -65,8 +65,9 @@ If you would like to contribute to this project, please follow these guidelines:
 2. Create a new branch for your feature or bug fix.
 3. Make your changes and test them thoroughly.
 4. Commit your changes and push them to your fork.
-5. Submit a pull request, explaining the purpose and details of your changes.\
-   Please ensure that your code adheres to the existing coding style and conventions used in the project.
+5. Submit a pull request, explaining the purpose and details of your changes.
+
+Please ensure that your code adheres to the existing coding style and conventions used in the project.
 
 ## License
 
