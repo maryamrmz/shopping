@@ -71,7 +71,7 @@ Please ensure that your code adheres to the existing coding style and convention
 
 ## License
 
-This repository is licensed under the MIT License. For more information, please refer to the LICENSE file.
+This repository is licensed under the MIT License.
 
 ## Contact
 
