@@ -34,8 +34,8 @@ cd Shopping npm install
 
 3.  Configure the application:
 
-    Rename the config.example.js file to config.js.
-    Update the necessary configuration variables in `config.js`, such as database connection details and API keys for payment integration.
+    - Rename the `config.example.js` file to `config.js`.
+    - Update the necessary configuration variables in `config.js`, such as database connection details and API keys for payment integration.
 
 4.  Start the application:
 
@@ -43,7 +43,7 @@ cd Shopping npm install
     npm start
     ```
 
-    Access the application in your web browser at `http://localhost:3000`.
+Access the application in your web browser at `http://localhost:3000`.
 
 ## Dependencies
 
