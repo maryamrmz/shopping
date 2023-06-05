@@ -1,21 +1,21 @@
 # Shopping
 
-This repository contains the code and documentation for a shopping application. The application allows users to browse and purchase various products online.
+This repository contains the code and documentation for a shopping application. The application allows users to browse and purchase various products online It provides features such as user registration and authentication, product listing and search, shopping cart functionality, order placement and history, payment integration, user reviews and ratings, and user profile management.
 
 ## Features
 
 The shopping application offers the following features:
 
-1. User Registration and Authentication: Users can create an account and log in securely to access personalized features.
-2. Product Listing: The application provides a comprehensive list of products available for purchase.
-3. Product Search: Users can search for specific products using keywords or filters.
-4. Product Details: Detailed information about each product, including images, descriptions, and pricing.
-5. Shopping Cart: Users can add products to their cart and review the selected items before proceeding to checkout.
-6. Order Placement: The application allows users to place orders and provides a confirmation page with order details.
-7. Order History: Users can view their past orders and track the status of their current orders.
-8. Payment Integration: Secure payment processing through integration with popular payment gateways.
-9. User Reviews and Ratings: Users can provide feedback and ratings for products they have purchased.
-10. User Profile: Users can manage their profile information, including contact details and preferences.
+1. **User Registration and Authentication**: Users can create an account and log in securely to access personalized features.
+2. **Product Listing**: The application provides a comprehensive list of products available for purchase.
+3. **Product Search**: Users can search for specific products using keywords or filters.
+4. **Product Details**: Detailed information about each product, including images, descriptions, and pricing.
+5. **Shopping Cart**: Users can add products to their cart and review the selected items before proceeding to checkout.
+6. **Order Placement**: The application allows users to place orders and provides a confirmation page with order details.
+7. **Order History**: Users can view their past orders and track the status of their current orders.
+8. **Payment Integration**: Secure payment processing through integration with popular payment gateways.
+9. **User Reviews and Ratings**: Users can provide feedback and ratings for products they have purchased.
+10. **User Profile**: Users can manage their profile information, including contact details and preferences.
     Installation
 
 To run the shopping application locally, follow these steps:
